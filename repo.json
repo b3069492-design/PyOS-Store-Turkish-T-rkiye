@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Matrix Rain",
+    "category": "Eğlence",
+    "url": "https://raw.githubusercontent.com/b3069492-design/PyOS-Store-Turkish-T-rkiye/main/matrix.py"
+  },
+  {
+    "name": "Paint Editor",
+    "category": "Araç",
+    "url": "https://raw.githubusercontent.com/b3069492-design/PyOS-Store-Turkish-T-rkiye/main/paint_editor.py"
+  },
+  {
+    "name": "Not Defteri",
+    "category": "Araç",
+    "url": "https://raw.githubusercontent.com/b3069492-design/PyOS-Store-Turkish-T-rkiye/main/notepad.py"
+  }
+]
